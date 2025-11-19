@@ -40,3 +40,5 @@
 ```bash
 git clone https://github.com/yourusername/playtrade.com.git
 # playtrade.com
+**WEB🙂**
+https://ism5il.github.io/playtrade.com/
